@@ -2,5 +2,5 @@
 *.jpg
 database.config
 node_modules
-*.log
+logs/*.log
 logs/*.txt
