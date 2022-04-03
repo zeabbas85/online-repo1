@@ -5,4 +5,10 @@ root_block_device {
  volume_type = "gp2"
  volume_size = 100
 }
+
+tags = {
+	Name = "Terraform-Dev-Machine"
+	Env = "Dev"
+
+}
 }
