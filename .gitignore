@@ -1,0 +1,6 @@
+*.exe
+*.jpg
+database.config
+node_modules
+*.log
+logs/*.txt
